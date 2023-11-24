@@ -1,1 +1,3 @@
-# Git Tutorial by w3schools
+# Git Tutorial by w3school!
+
+Finally got time to learn git full course. Hopefully I won't give up halfway again.
